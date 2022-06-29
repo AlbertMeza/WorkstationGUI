@@ -1,0 +1,17 @@
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\bin\Debug\net6.0-windows\WorkstationShop.exe
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\bin\Debug\net6.0-windows\WorkstationShop.deps.json
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\bin\Debug\net6.0-windows\WorkstationShop.runtimeconfig.json
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\bin\Debug\net6.0-windows\WorkstationShop.dll
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\bin\Debug\net6.0-windows\WorkstationShop.pdb
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\obj\Debug\net6.0-windows\WorkstationShop.csproj.AssemblyReference.cache
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\obj\Debug\net6.0-windows\WorkstationShop.Form1.resources
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\obj\Debug\net6.0-windows\WorkstationShop.csproj.GenerateResource.cache
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\obj\Debug\net6.0-windows\WorkstationShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\obj\Debug\net6.0-windows\WorkstationShop.AssemblyInfoInputs.cache
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\obj\Debug\net6.0-windows\WorkstationShop.AssemblyInfo.cs
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\obj\Debug\net6.0-windows\WorkstationShop.csproj.CoreCompileInputs.cache
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\obj\Debug\net6.0-windows\WorkstationShop.dll
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\obj\Debug\net6.0-windows\refint\WorkstationShop.dll
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\obj\Debug\net6.0-windows\WorkstationShop.pdb
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\obj\Debug\net6.0-windows\WorkstationShop.genruntimeconfig.cache
+C:\Users\Albert.Meza\source\repos\WorkstationShop\WorkstationShop\obj\Debug\net6.0-windows\ref\WorkstationShop.dll
